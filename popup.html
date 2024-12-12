@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duck Mail Converter.</title>
+    <img src="./icon128.png" width="10%" style="display:inline-block;vertical-align:middle;">
+    <span style="display:inline-block;vertical-align:middle;margin-left:10px;">
+ <a href="https://duckduckgo.com/duckduckgo-help-pages/email-protection/what-is-duckduckgo-email-protection/" title="https://duckduckgo.com/duckduckgo-help-pages/email-protection/what-is-duckduckgo-email-protection/">DuckDuckGo Email FAQ </a> <b>|</b><a href="https://github.com/z-aki/duck_email_converter" title="https://github.com/z-aki/duck_email_converter"> Extension Github repository</a>
+    </span>
+    <link rel="stylesheet" href="styles.css">
+    <script src="popup.js" defer></script>
+</head>
+<body>
+    <a><h1>Duck Mail Converter</h1><small>Not affiliated with DuckDuckGo. No trademark or copyright infringement intended. The DuckDuckGo name, logos, trade dress, and other brand elements are trademarks of Duck Duck Go, Inc.</small></a>
+    <input type="text" id="usernameInput" placeholder="Enter your Duck Email username" required="true" minlength="1"  />
+    <textarea id="emailInput" placeholder="Enter emails (space or new line separated)"></textarea>
+    <table id="resultTable">
+        <thead>
+            <tr>
+                <th>Converted Email</th>
+                <th>Copy</th>
+                <th>Write Mail</th>
+            </tr>
+        </thead>
+        <tbody id="resultContainer"></tbody>
+        <tfoot>
+            <tr>
+                <td><a>Hovering will show the content of these buttons.</a></td>
+                <td><button id="copyAllButton" class="copy-button">Copy All</button></td>
+                <td><a id="mailtoAllButton" class="mailto-link">Mail All</a></td>
+            </tr>
+        </tfoot>
+    </table>
+    
+    
+</body>
+</html>
