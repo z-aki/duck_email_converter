@@ -1,7 +1,8 @@
 - Convert your forwarding email and your DuckDuckGo Email Protection username to an email ready to be written to.
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
-
+- Supports saving the input emails and username to browser profile and syncing it across profiles.
+  
 Illustrative Example:
 
 ```
@@ -10,10 +11,17 @@ your email = b@c.com
 output = mailto:b_at_c.com_a@duck.com
 ```
 
+Screenshots
 
-<img src="./ex_chrome.png" width="300"  /> 
-<img src="./ex_firefox.png" width="300"  />
+> <img src="./ex_chrome.png" width="300"  /> 
+> <img src="./ex_firefox.png" width="300"  />
 
+---
+Contributions:
+
+https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+
+https://developer.chrome.com/docs/extensions/get-started/tutorial/debug
 
 ----
 
