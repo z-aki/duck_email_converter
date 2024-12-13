@@ -2,7 +2,7 @@
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
 - Supports syncing the username and last input emails across profiles.
-  
+
 Illustrative Example:
 
 ```
@@ -13,8 +13,10 @@ output = mailto:b_at_c.com_a@duck.com
 
 Screenshots
 
-> <img src="./ex_chrome.png" width="300"  /> 
+> <img src="./ex_chrome.png" width="300"  />
 > <img src="./ex_firefox.png" width="300"  />
+
+Installation: https://github.com/z-aki/duck_email_converter/releases/latest
 
 ---
 Contributions:
@@ -22,6 +24,8 @@ Contributions:
 https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
 
 https://developer.chrome.com/docs/extensions/get-started/tutorial/debug
+
+https://developer.thunderbird.net/add-ons/about-add-ons
 
 ----
 
