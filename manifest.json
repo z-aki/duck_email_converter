@@ -3,8 +3,8 @@
   "name": "duck_mail_converter",
   "version": "1.0.0",
   "homepage_url": "https://github.com/z-aki/duck_email_converter",
-  "author": "39851968+z-aki@users.noreply.github.com",
-  "description": "Convert emails to duck.com alias with your custom username. Supports [at] and [dot] formats also.\n\nNot affiliated with DuckDuckGo. No trademark or copyright infringement intended. The DuckDuckGo name, logos, trade dress, and other brand elements are trademarks of Duck Duck Go, Inc.",
+  "author": "z-aki",
+  "description": "Convert your forwarding email and your DuckDuckGo Email Protection username to an email ready to be written to. Supports [at] and [dot] formats also. Open source. No data is ever collected except when you sync it in your browser profiles. Not affiliated with DuckDuckGo. The DuckDuckGo name, logos, trade dress, and other brand elements are trademarks of Duck Duck Go, Inc.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
