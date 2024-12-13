@@ -22,7 +22,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "duck_email_converter@z-aki",
-      "strict_min_version": "58.0"
+      "strict_min_version": "109"
     }
   }
 }
