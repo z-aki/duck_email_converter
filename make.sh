@@ -5,4 +5,8 @@ zip -r duck_mail_converter.zip \
  icon300.png \
  manifest.json \
  popup.js \
- styles.css
+ styles.css \
+ LICENSE.txt \
+ README.md \
+ ex_chrome.png \
+ ex_firefox.png
