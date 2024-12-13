@@ -1,9 +1,9 @@
 set -e
-zip -r duck_mail_converter.zip \
+zip -j duck_mail_converter_${1}.zip \
  popup.html \
  icon128.png \
  icon300.png \
- manifest.json \
+ ./${1}/manifest.json \
  popup.js \
  styles.css \
  LICENSE.txt \

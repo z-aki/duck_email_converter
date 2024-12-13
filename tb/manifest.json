@@ -12,9 +12,15 @@
       "300": "icon300.png"
     }
   },
+  "compose_action": {
+    "default_title": "Duck Email",
+    "default_popup": "popup.html",
+    "default_icon": "icon300.png"
+  },
   "permissions": [
     "clipboardWrite",
-    "storage"
+    "storage",
+    "menus.contextMenus"
   ],
   "icons": {
     "128": "icon128.png"
