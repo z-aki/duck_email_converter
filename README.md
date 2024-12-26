@@ -2,6 +2,7 @@
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
 - Supports syncing the username and last input emails across profiles.
+- Supported on Firefox, Thunderbird and Google Chrome https://github.com/z-aki/duck_email_converter/releases/latest
 
 Illustrative Example:
 
