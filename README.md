@@ -1,4 +1,4 @@
-- Convert your forwarding email and your DuckDuckGo Email Protection username to an email ready to be written to.
+- Convert your target email and your DuckDuckGo Email Protection username to an email ready to be written to.
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
 - Supports syncing the username and last input emails across profiles.

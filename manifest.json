@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage_url": "https://github.com/z-aki/duck_email_converter",
   "author": "z-aki",
-  "description": "Convert your forwarding email and your DuckDuckGo Email Protection username to an email ready to be written to. Supports [at][dot].",
+  "description": "Convert your target email and your DuckDuckGo Email Protection username to an email ready to be written to. Supports [at][dot].",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
