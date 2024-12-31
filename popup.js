@@ -5,7 +5,7 @@ document.getElementById('emailInput').addEventListener('input', updateResults);
 document.getElementById('copyAllButton').addEventListener('click', copyAllEmails);
 // if browser == chrome, storage = chrome.storage
 function addonLog(...args) {
-    // prepend extension name 
+    // prepend extension name
     console.log('duck_mail_converter:', args);
 }
 var inChrome = (typeof chrome !== 'undefined');
