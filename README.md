@@ -7,9 +7,9 @@
 Illustrative Example:
 
 ```
-username = a
-your email = b@c.com
-output = mailto:b_at_c.com_a@duck.com
+username = ankit
+your email = ankit.jha@c.com
+output = mailto:ankit.jha_at_c.com_ankit@duck.com
 ```
 
 Screenshots
