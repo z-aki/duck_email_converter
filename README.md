@@ -2,7 +2,7 @@
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
 - Supports syncing the username and last input emails across profiles.
-- Supported on iOS, macOS, Firefox, Thunderbird and Google Chrome <https://github.com/z-aki/duck_email_converter/releases/latest>
+- Supported on iOS, macOS, Firefox, Thunderbird and Google Chrome 
 
 Illustrative Example:
 
@@ -12,11 +12,13 @@ your email = b@c.com
 output = mailto:b_at_c.com_a@duck.com
 ```
 
+Install:  https://github.com/z-aki/duck_email_converter/releases/latest
+
+For browsers and thunderbird: click on extension store links.
+
 ---
 
-iOS macOS shorcut installation
-
-Setup: Upon opening the .shortcut file, click on "Add shortcut". Enter your duck username in the prompt and click "Add".
+For iOS macOS shortcut installation, download the zip from the above link > open the .shortcut file > click on "Add shortcut" > Enter your duck username in the prompt > click "Add".
 
 Usage:
 
@@ -30,9 +32,9 @@ Usage:
 
 Screenshots
 
-> <img src="./ex_chrome.png" width="30%"  />
-> <img src="./ex_firefox.png" width="30%"  />
-> <img src="./ex_ios_macos.png" width="70%"  />
+> <img src="./ex_chrome.png" width="90%"  />
+> <img src="./ex_firefox.png" width="90%"  />
+> <img src="./ex_ios_macos.png" width="90%"  />
 
 Installation: <https://github.com/z-aki/duck_email_converter/releases/latest>
 
