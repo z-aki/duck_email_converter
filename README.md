@@ -2,7 +2,7 @@
 - Supports [at] and [dot] formatted emails also.
 - Supports multiple email conversions also.
 - Supports syncing the username and last input emails across profiles.
-- Supported on Firefox, Thunderbird and Google Chrome https://github.com/z-aki/duck_email_converter/releases/latest
+- Supported on iOS, macOS, Firefox, Thunderbird and Google Chrome <https://github.com/z-aki/duck_email_converter/releases/latest>
 
 Illustrative Example:
 
@@ -12,21 +12,37 @@ your email = b@c.com
 output = mailto:b_at_c.com_a@duck.com
 ```
 
-Screenshots
+---
 
-> <img src="./ex_chrome.png" width="300"  />
-> <img src="./ex_firefox.png" width="300"  />
+iOS macOS shorcut installation
 
-Installation: https://github.com/z-aki/duck_email_converter/releases/latest
+Setup: Upon opening the .shortcut file, click on "Add shortcut". Enter your duck username in the prompt and click "Add".
+
+Usage:
+
+- From the mail app, click on any email sender or recipient. Click on share contact > select the wanted emails and the shortcut will compose a new email to them.
+
+- Alternatively, in the contacts/ phone app, share any contact and the shortcut will compose a new email to its selected emails.
+
+- Alternatively, in the shortcuts app, open this shortcut > add it to homescreen and click on its icon. Then enter the emails in different lines and the shortcut will compose a new email to those recipients. Then they can be added to contact for later re-use.
 
 ---
+
+Screenshots
+
+> <img src="./ex_chrome.png" width="30%"  />
+> <img src="./ex_firefox.png" width="30%"  />
+> <img src="./ex_ios_macos.png" width="70%"  />
+
+Installation: <https://github.com/z-aki/duck_email_converter/releases/latest>
+
 Contributions:
 
-https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+<https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/>
 
-https://developer.chrome.com/docs/extensions/get-started/tutorial/debug
+<https://developer.chrome.com/docs/extensions/get-started/tutorial/debug>
 
-https://developer.thunderbird.net/add-ons/about-add-ons
+<https://developer.thunderbird.net/add-ons/about-add-ons>
 
 ----
 
